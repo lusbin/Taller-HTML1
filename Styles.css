@@ -1,0 +1,19 @@
+#principal{
+    color: rgb(9, 255, 0);
+    font-weight: 40;
+    background: rgb(80, 79, 79);
+    font-size: larger;
+}
+
+
+.algo{
+    color: crimson;
+    font-weight: bold;
+    margin: auto;
+}
+
+
+h2{
+color: black;
+padding: 4%;
+}
